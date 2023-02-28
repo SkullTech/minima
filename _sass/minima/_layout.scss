@@ -339,9 +339,3 @@
     width: calc(50% - (#{$spacing-unit} / 2));
   }
 }
-
-// Post tags
-.post-tag {
-  text-decoration: none !important; 
-  font-family: $code-font-family;
-}
